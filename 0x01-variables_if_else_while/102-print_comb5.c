@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /* more headers goes there */
 /* betty style doc for function main goes there */
 /**
@@ -6,6 +7,7 @@
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int p = 48, q = 48, y = 48, x = 49;
